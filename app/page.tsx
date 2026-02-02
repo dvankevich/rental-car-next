@@ -16,7 +16,7 @@ export default async function Home() {
   return (
     <main className="p-10 font-manrope]">
       <h1 className="text-3xl font-bold text-main mb-6">
-        Перевірка зв&aposязку з API
+        Перевірка зв&apos;язку з API
       </h1>
 
       {error ? (
